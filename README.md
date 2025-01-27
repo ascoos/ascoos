@@ -1,7 +1,7 @@
 # All my free projects on Github, exist in [ASCOOS Organization](https://github.com/ascoos)
 
 ***
-![AlexSoft Software Stats](https://github-readme-stats.vercel.app/api?username=alexsoft-software&show_icons=true&theme=transparent&count_private=true&locale=el)
+![AlexSoft Software Stats](https://github-readme-stats.vercel.app/api?username=alexsoft-software&show_icons=true&theme=dark&count_private=true&locale=el)
 
 ![AlexSoft Software Stats Graph](https://github-readme-activity-graph.vercel.app/graph?username=alexsoft-software&theme=xcode&hide_border=true)
 
