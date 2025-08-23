@@ -1,10 +1,10 @@
 
 ---
 
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fawes.ascoos.com)
-![SourceForge Downloads](https://img.shields.io/sourceforge/dt/awserver?label=Ascoos%20Web%20Server)
-![SourceForge Downloads](https://img.shields.io/sourceforge/dt/ascoos-web-extended-studio?label=Ascoos%20Web%20Extended%20Studio)
-![Mozilla Add-on Users](https://img.shields.io/amo/users/greek-spellchecker?label=greek-spellchecker)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fawes.ascoos.com)](https://awes.ascoos.com)
+[![SourceForge Downloads](https://img.shields.io/sourceforge/dt/awserver?label=Ascoos%20Web%20Server)](https://sourceforge.net/projects/awserver/)
+[![SourceForge Downloads](https://img.shields.io/sourceforge/dt/ascoos-web-extended-studio?label=Ascoos%20Web%20Extended%20Studio)](https://sourceforge.net/projects/ascoos-web-extended-studio/)
+[![Mozilla Add-on Users](https://img.shields.io/amo/users/greek-spellchecker?label=greek-spellchecker)](https://addons.mozilla.org/el/firefox/addon/greek-spellchecker/)
 
 
 
