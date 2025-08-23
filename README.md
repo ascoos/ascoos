@@ -10,7 +10,7 @@
 
 ---
 
-# Ascoos OS Comparison with Laravel, Symfony, and CodeIgniter
+# **`Ascoos OS`** Comparison with Laravel, Symfony, and CodeIgniter
 
 The following table compares **Ascoos OS** with popular PHP frameworks **Laravel**, **Symfony**, and **CodeIgniter** across various features and capabilities.
 
