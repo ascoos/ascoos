@@ -10,10 +10,6 @@
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/ascoos)](https://x.com/ascoos)
 ![GitHub followers](https://img.shields.io/github/followers/ascoos)
 
-
-
-
-
 ---
 
 # [**`Ascoos OS`**](https://github.com/ascoos/os) Comparison with Laravel, Symfony, and CodeIgniter
