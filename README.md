@@ -5,6 +5,12 @@
 [![SourceForge Downloads](https://img.shields.io/sourceforge/dt/awserver?label=Ascoos%20Web%20Server)](https://sourceforge.net/projects/awserver/)
 [![SourceForge Downloads](https://img.shields.io/sourceforge/dt/ascoos-web-extended-studio?label=Ascoos%20Web%20Extended%20Studio)](https://sourceforge.net/projects/ascoos-web-extended-studio/)
 [![Mozilla Add-on Users](https://img.shields.io/amo/users/greek-spellchecker?label=greek-spellchecker)](https://addons.mozilla.org/el/firefox/addon/greek-spellchecker/)
+[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCSXEgwKou_sV0D6ZWOaih5w)](https://www.youtube.com/@Ascoos)
+
+[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/ascoos)](https://x.com/ascoos)
+![GitHub followers](https://img.shields.io/github/followers/ascoos)
+
+
 
 
 
