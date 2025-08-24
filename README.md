@@ -18,7 +18,7 @@
 
 # [**`Ascoos OS`**](https://github.com/ascoos/os) Comparison with Laravel, Symfony, and CodeIgniter
 
-The following table compares **Ascoos OS** with popular PHP frameworks **Laravel**, **Symfony**, and **CodeIgniter** across various features and capabilities.
+The following table compares [**Ascoos OS**](https://github.com/ascoos/os) with popular PHP frameworks **Laravel**, **Symfony**, and **CodeIgniter** across various features and capabilities.
 
 | **Feature**                | **Ascoos OS**                                                                | **Laravel**                                              | **Symfony**                                              | **CodeIgniter**                                          |
 |----------------------------|------------------------------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------|
