@@ -1,49 +1,105 @@
-<p align="center"><img src="https://dl.ascoos.com/images/ascoos.png" height=120 /></p>
+<p align="center">
+  <img src="https://dl.ascoos.com/images/ascoos.png" height="120" />
+</p>
 
 ---
 
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fawes.ascoos.com)](https://awes.ascoos.com)
-[![SourceForge Downloads](https://img.shields.io/sourceforge/dt/awserver?label=Ascoos%20Web%20Server)](https://sourceforge.net/projects/awserver/)
-[![SourceForge Downloads](https://img.shields.io/sourceforge/dt/ascoos-web-extended-studio?label=Ascoos%20Web%20Extended%20Studio)](https://sourceforge.net/projects/ascoos-web-extended-studio/)
-[![Mozilla Add-on Users](https://img.shields.io/amo/users/greek-spellchecker?label=greek-spellchecker)](https://addons.mozilla.org/el/firefox/addon/greek-spellchecker/)
-[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCSXEgwKou_sV0D6ZWOaih5w)](https://www.youtube.com/@Ascoos)
+# 👋 Welcome to the Ascoos Ecosystem
 
-[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/ascoos)](https://x.com/ascoos)
-![GitHub followers](https://img.shields.io/github/followers/ascoos)
+**Ascoos** is a modular, extensible, and innovative software ecosystem designed for developers seeking more than just a framework.  
+From Web 5.0 kernels to visual development environments, UI libraries, and hybrid databases—Ascoos delivers solutions for Web, IoT, AI, and beyond.
 
 ---
 
-# [**`Ascoos OS`**](https://github.com/ascoos/os) Comparison with Laravel, Symfony, and CodeIgniter
+## 🚀 Featured Projects
 
-The following table compares [**Ascoos OS**](https://github.com/ascoos/os) with popular PHP frameworks **Laravel**, **Symfony**, and **CodeIgniter** across various features and capabilities.
+| Project | Description |
+|--------|-------------|
+| [**Ascoos OS**](https://github.com/ascoos/os) | A powerful PHP Web 5.0 Kernel with support for Web, IoT, AI, NLP, and more. |
+| [**Ascoos Web Extended Studio (AWES)**](https://github.com/ascoos/awes) | A portable IDE for developing and testing web applications across multiple PHP versions and databases, featuring visual tools and extensibility. |
+| [**BootLib**](https://github.com/ascoos/bootlib) | A robust UI framework with an extensive interface library, supported by the JavaScript framework `JAscoos`. |
+| [**JSQLDB**](https://github.com/ascoos/jsql) | A hybrid JSON SQL database engine focused on speed, modularity, and PHP-native queries. |
+| [**Greek Spellchecker**](https://addons.mozilla.org/en/firefox/addon/greek-spellchecker/) | A Firefox add-on for accurate Greek spellchecking. |
+| [**phpBCL**](https://github.com/ascoos/phpbcl) | A PHP Compatibility Library for legacy versions. |
+| [**WIC (Web Images Cryptography)**](https://github.com/ascoos/wic) | A new image file format (`*.wic`) offering high compression and enhanced security for web delivery. |
 
-| **Feature**                | **Ascoos OS**                                                                | **Laravel**                                              | **Symfony**                                              | **CodeIgniter**                                          |
-|----------------------------|------------------------------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------|
-| **Architecture**           | Modular Handlers, DSL/AST, Event-Driven, Supports Web, IoT, AI, NLP, etc.    | MVC, Eloquent ORM, Blade Templating                      | Component-Based, MVC, Dependency Injection               | MVC, Lightweight Framework                              |
-| **Flexibility**            | Highly flexible (~4500 classes) for Web, IoT, AI, Torrent, CDN, Social APIs   | Focused on Web, APIs, and microservices                  | Focused on Web, APIs, and microservices                  | Lightweight, focused on Web and APIs                    |
-| **Scalability**            | High, with extensive classes for multiple domains                            | High, via packages and Composer                         | High, via components and bundles                        | Moderate, limited compared to others                    |
-| **IoT Support**            | Yes (`TIoTDeviceHandler`)                                                    | No (requires custom implementation)                      | No (requires custom implementation)                      | No (requires custom implementation)                     |
-| **AI/NLP Support**         | Yes (`TLanguageProcessingAIHandler`, `TNeuralNetworkHandler`)                 | No (requires external libraries)                         | No (requires external libraries)                         | No (requires external libraries)                        |
-| **Security**               | ASS (XSS, SQL Injection, DDoS, overflows, VPN/Proxy/IP/Mac/Email filters, AI request validation, counterattacks, phishing, CSP, CORS, OAuth2, TLS 1.3, CSRF, `TOpenSSLHandler`) | CSRF, XSS, SQL Injection Protection, Laravel Security    | Security Component, CSRF, OAuth, Firewall                | CSRF, XSS, Input Filtering                              |
-| **Visualization**          | Yes (`TArrayGraphHandler`, JAscoos, [BootLib](https://github.com/ascoos/bootlib))                                 | No (requires packages like Charts)                      | No (requires bundles)                                    | No (requires custom implementation)                     |
-| **API Support**            | Yes (`TGitHubAPIHandler`, `TTwitterAPIHandler`, `TXAPIHandler`, and more...)  | Yes (Laravel API Resource, Passport)                     | Yes (API Platform)                                       | Yes (RESTful Controller)                                |
-| **CDN Support**            | Yes (`TCDNHandler`, AI-driven load balancing)                                 | No (requires custom or external services)                | No (requires custom or external services)                | No (requires custom implementation)                     |
-| **Torrent Support**        | Yes (`TTorrentFileHandler`)                                                  | No                                                      | No                                                      | No                                                      |
-| **Hardware Support**       | Yes (Serial, Arduino, Raspberry Pi)                                          | No (requires custom implementation)                      | No (requires custom implementation)                      | No (requires custom implementation)                     |
-| **WebSocket Support**      | Yes (`TWebSocketHandler`)                                                    | Yes (via Laravel WebSockets or Pusher)                   | Yes (via bundles or Ratchet)                             | No (requires custom implementation)                     |
-| **WebSocket over HTTP/2**  | Yes (via `THTTP2Handler`)                                                    | No (limited support)                                    | No (limited support)                                    | No                                                      |
-| **HTTP/2 Support**         | Yes (`THTTP2Handler`)                                                        | No (depends on server)                                  | No (depends on server)                                  | No (depends on server)                                  |
-| **HTTP/3 Support**         | Yes (`THTTP3Handler`)                                                        | No (depends on server)                                  | No (depends on server)                                  | No (depends on server)                                  |
-| **FTP/SFTP Support**       | Yes (`TFTPHandler`)                                                          | Yes (Filesystem, Flysystem)                             | Yes (Filesystem Component, Flysystem)                    | Yes (FTP Library)                                       |
-| **UTF-8 Handling**         | Yes (`TUTF8`, `Str`)                                                         | Yes (mbstring, Illuminate\Support\Str)                   | Yes (mbstring, String Component)                         | Partial (mbstring)                                      |
-| **Debugging**              | Yes (`TDebugHandler`, `TTestHandler`)                                        | Yes (Debugbar, Telescope)                               | Yes (Debug Component, Profiler)                          | Basic (Log Viewer)                                      |
-| **Event Handling**         | Yes (`TEventHandler`, `TObserverHandler`, `TMacroHandler`)                   | Yes (Event/Listener System)                             | Yes (Event Dispatcher)                                   | No (requires custom implementation)                     |
-| **Database**               | [JSQLDB](https://github.com/ascoos/jsql), MySQL, PostgreSQL, MongoDB                                           | Eloquent ORM, MySQL, PostgreSQL, SQLite, etc.            | Doctrine ORM, MySQL, PostgreSQL, SQLite, etc.            | Query Builder, MySQL, PostgreSQL, SQLite                |
-| **Community/Support**      | Unclear (likely limited, proprietary), [Issues](https://issues.ascoos.com)                                        | Very large, open-source                                 | Large, open-source                                       | Smaller, open-source                                    |
-| **Size/Performance**       | Optimized (only core classes loaded automatically, extra classes optional)    | Moderate, optimized for web                              | Moderate, optimized for web                              | Lightweight, fast                                        |
+---
 
-## Notes
-- **Ascoos OS**: A highly versatile PHP Web 5.0 Kernel with extensive support for Web, IoT, AI, and more. Its modular design and optional class loading make it efficient for various use cases.
-- **Laravel**: Ideal for rapid web application development with a robust ORM and friendly API.
-- **Symfony**: Suited for complex, scalable web applications with modular components.
-- **CodeIgniter**: Lightweight and fast, but limited in advanced features compared to others.
+## 📊 Technologies
+
+![PHP](https://img.shields.io/badge/PHP-8.2-blue)
+![IoT](https://img.shields.io/badge/IoT-ready-green)
+![AI](https://img.shields.io/badge/AI-enabled-purple)
+![WebSocket](https://img.shields.io/badge/WebSocket-supported-orange)
+![HTTP/3](https://img.shields.io/badge/HTTP/3-supported-red)
+
+---
+
+## 🧠 Technological Superiority
+
+Explore the [comparison table](https://github.com/ascoos/os/blob/main/COMPARE.md) showcasing [**Ascoos OS**](https://github.com/ascoos/os) against popular PHP frameworks like Laravel, Symfony, and CodeIgniter.
+
+---
+
+## 🌐 Community & Reach
+
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fawes.ascoos.com)](https://awes.ascoos.com)  
+[![AWServer Downloads](https://img.shields.io/sourceforge/dt/awserver?label=Ascoos%20Web%20Server)](https://sourceforge.net/projects/awserver/)  
+[![AWES Downloads](https://img.shields.io/sourceforge/dt/ascoos-web-extended-studio?label=Ascoos%20Web%20Extended%20Studio)](https://sourceforge.net/projects/ascoos-web-extended-studio/)  
+[![YouTube Views](https://img.shields.io/youtube/channel/views/UCSXEgwKou_sV0D6ZWOaih5w)](https://www.youtube.com/@Ascoos)  
+[![Twitter Followers](https://img.shields.io/twitter/follow/ascoos)](https://x.com/ascoos)  
+![GitHub Followers](https://img.shields.io/github/followers/ascoos)
+
+---
+
+## 🛠️ Getting Started
+
+Each project includes its own README and detailed documentation.  
+To explore the ecosystem, start with [Ascoos OS](https://github.com/ascoos/os) or try [AWES](https://github.com/ascoos/awes) for a visual development experience.
+
+---
+
+## 🤝 Contribution & Collaboration
+
+Ascoos is a hybrid ecosystem—part commercial, part open-source—and every contribution is welcome!  
+You can:
+- Report issues or suggestions at [issues.ascoos.com](https://issues.ascoos.com)
+- Submit Pull Requests to individual repositories
+- Join future discussions on GitHub Discussions
+
+---
+
+## 🧩 Ecosystem Diagram
+
+```text
+PHP
+├── Ascoos OS
+│   ├── Ascoos Framework
+│   │   ├── Ascoos CMS 
+│   ├── IoT
+│   ├── APIs
+│   ├── Other frameworks or web applications
+
+Windows
+├── Ascoos Web Server
+├── Ascoos Web Extended Studio (Development Suite)
+```
+
+---
+
+## 📬 Contact
+
+For inquiries or collaborations, please email **support@ascoos.com**.
+
+---
+
+## 📣 Stay Connected
+
+- 🌐 Website: [awes.ascoos.com](https://awes.ascoos.com)  
+- 📺 YouTube: [@Ascoos](https://www.youtube.com/@Ascoos)  
+- 🐦 Twitter/X: [@ascoos](https://x.com/ascoos)  
+- 🧵 Ascoos Discussions: Coming soon...
+
+---
+
+<p align="center"><i>Thank you for visiting the Ascoos ecosystem. Let’s build the future together.</i></p>
