@@ -43,7 +43,7 @@ Explore the [comparison table](https://github.com/ascoos/os/blob/main/COMPARE.md
 
 ## 🌐 Community & Reach
 
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fawes.ascoos.com)](https://awes.ascoos.com)  
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.ascoos.com)](https://www.ascoos.com)  
 [![AWServer Downloads](https://img.shields.io/sourceforge/dt/awserver?label=Ascoos%20Web%20Server)](https://sourceforge.net/projects/awserver/)  
 [![AWES Downloads](https://img.shields.io/sourceforge/dt/ascoos-web-extended-studio?label=Ascoos%20Web%20Extended%20Studio)](https://sourceforge.net/projects/ascoos-web-extended-studio/)  
 [![YouTube Views](https://img.shields.io/youtube/channel/views/UCSXEgwKou_sV0D6ZWOaih5w)](https://www.youtube.com/@Ascoos)  
@@ -95,7 +95,9 @@ For inquiries or collaborations, please email **support@ascoos.com**.
 
 ## 📣 Stay Connected
 
-- 🌐 Website: [awes.ascoos.com](https://awes.ascoos.com)  
+- 🌐 Official Website: [www.ascoos.com](https://awes.ascoos.com)
+- 💻 AWES Official Website: [awes.ascoos.com](https://awes.ascoos.com)
+- 🐞 Issues: [issues.ascoos.com](https://issues.ascoos.com)
 - 📺 YouTube: [@Ascoos](https://www.youtube.com/@Ascoos)  
 - 🐦 Twitter/X: [@ascoos](https://x.com/ascoos)  
 - 🧵 Ascoos Discussions: Coming soon...
