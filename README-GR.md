@@ -95,7 +95,7 @@ Windows
 
 ## 📣 Μείνετε Συνδεδεμένοι
 
-- 🌐 Επίσημος Ιστότοπος: [www.ascoos.com](https://awes.ascoos.com)
+- 🌐 Επίσημος Ιστότοπος: [www.ascoos.com](https://www.ascoos.com)
 - 💻 Επίσημος Ιστότοπος του AWES: [awes.ascoos.com](https://awes.ascoos.com)
 - 🐞 Αναφορές Προβλημάτων: [issues.ascoos.com](https://issues.ascoos.com)
 - 📺 YouTube: [@Ascoos](https://www.youtube.com/@Ascoos)  
@@ -105,4 +105,5 @@ Windows
 ---
 
 <p align="center"><i>Σας ευχαριστούμε που επισκεφθήκατε το οικοσύστημα Ascoos. Ας χτίσουμε μαζί το μέλλον.</i></p>
+
 
