@@ -95,7 +95,7 @@ For inquiries or collaborations, please email **support@ascoos.com**.
 
 ## 📣 Stay Connected
 
-- 🌐 Official Website: [www.ascoos.com](https://awes.ascoos.com)
+- 🌐 Official Website: [www.ascoos.com](https://www.ascoos.com)
 - 💻 AWES Official Website: [awes.ascoos.com](https://awes.ascoos.com)
 - 🐞 Issues: [issues.ascoos.com](https://issues.ascoos.com)
 - 📺 YouTube: [@Ascoos](https://www.youtube.com/@Ascoos)  
