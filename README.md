@@ -19,7 +19,7 @@ From Web 5.0 kernels to visual development environments, UI libraries, and hybri
 | [**Ascoos Web Extended Studio (AWES)**](https://github.com/ascoos/awes) | A portable IDE for developing and testing web applications across multiple PHP versions and databases, featuring visual tools and extensibility. |
 | [**JML (JSON-style Markup Language)**](https://github.com/ascoos/jml) | JML is a lightweight, readable markup format inspired by JSON and DSLs. Designed for rapid UI template creation in Ascoos OS, it enables structured HTML generation with minimal syntax, full UTF-8 support, and easy editing via Abstract Syntax Tree (AST). |
 | [**BootLib**](https://github.com/ascoos/bootlib) | A robust UI framework with an extensive interface library, supported by the JavaScript framework `JAscoos`. |
-| [**JSQLDB**](https://github.com/ascoos/jsql) | A hybrid JSON SQL database engine focused on speed, modularity, and PHP-native queries. |
+| [**JSQLDB**](https://github.com/ascoos/jsqldb) | A hybrid JSON SQL database engine focused on speed, modularity, and PHP-native queries. |
 | [**Greek Spellchecker**](https://addons.mozilla.org/en/firefox/addon/greek-spellchecker/) | A Firefox add-on for accurate Greek spellchecking. |
 | [**phpBCL**](https://github.com/ascoos/phpbcl) | A PHP Compatibility Library for legacy versions. |
 | [**WIC (Web Images Cryptography)**](https://github.com/ascoos/wic) | A new image file format (`*.wic`) offering high compression and enhanced security for web delivery. |
