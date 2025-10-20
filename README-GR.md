@@ -11,6 +11,17 @@
 
 ---
 
+## 📊 Τεχνολογίες
+
+![PHP](https://img.shields.io/badge/5.6--8.5-blue?style=for-the-badge&label=PHP&labelColor=041f60&color=034f84)
+![IoT](https://img.shields.io/badge/Ready-blue?style=for-the-badge&label=IoT&labelColor=%234e555b&color=006400)
+![AI](https://img.shields.io/badge/Enabled-blue?style=for-the-badge&label=AI%2FNLP%2FNeural&labelColor=%234e555b&color=3e8548)
+![Static Badge](https://img.shields.io/badge/Enabled-blue?style=for-the-badge&label=Macro%20Engine%20with%20DSL%2FAST&labelColor=%234e555b&color=3e8548)
+![WebSocket](https://img.shields.io/badge/Supported-blue?style=for-the-badge&label=Web%20Socket&labelColor=%234e555b&color=873260)
+![HTTP/3](https://img.shields.io/badge/Supported-blue?style=for-the-badge&label=HTTP%2F2%20%7C%20HTTP%2F3&labelColor=%234e555b&color=873260)
+
+---
+
 ## 🚀 Κύρια Έργα
 
 | Έργο | Περιγραφή |
@@ -23,16 +34,6 @@
 | [**Greek Spellchecker**](https://addons.mozilla.org/el/firefox/addon/greek-spellchecker/) | Πρόσθετο για τον Firefox για ορθογραφικό έλεγχο στην ελληνική γλώσσα. |
 | [**phpBCL**](https://github.com/ascoos/phpbcl) | Βιβλιοθήκη Συμβατότητας PHP για παλαιότερες εκδόσεις. |
 | [**WIC (Web Images Cryptography)**](https://github.com/ascoos/wic) | Νέα μορφή αρχείου εικόνας (`*.wic`) με υψηλή συμπίεση και αυξημένη ασφάλεια για χρήση στο web. |
-
----
-
-## 📊 Τεχνολογίες
-
-![PHP](https://img.shields.io/badge/PHP-8.2-blue)
-![IoT](https://img.shields.io/badge/IoT-έτοιμο-green)
-![AI](https://img.shields.io/badge/AI-ενεργοποιημένο-purple)
-![WebSocket](https://img.shields.io/badge/WebSocket-υποστηρίζεται-orange)
-![HTTP/3](https://img.shields.io/badge/HTTP/3-υποστηρίζεται-red)
 
 ---
 
@@ -106,6 +107,7 @@ Windows
 ---
 
 <p align="center"><i>Σας ευχαριστούμε που επισκεφθήκατε το οικοσύστημα Ascoos. Ας χτίσουμε μαζί το μέλλον.</i></p>
+
 
 
 
