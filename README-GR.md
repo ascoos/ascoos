@@ -19,7 +19,7 @@
 | [**Ascoos Web Extended Studio (AWES)**](https://github.com/ascoos/awes) | Ολοκληρωμένο portable IDE για ανάπτυξη και έλεγχο web εφαρμογών σε πολλαπλές εκδόσεις PHP και βάσεων δεδομένων, με οπτικά εργαλεία και επεκτασιμότητα. |
 | [**JML (JSON-style Markup Language)**](https://github.com/ascoos/jml/blob/main/README-GR.md) | Το JML είναι ένα ελαφρύ, αναγνώσιμο format markup εμπνευσμένο από JSON και DSLs. Σχεδιασμένο για γρήγορη δημιουργία templates UI στο Ascoos OS, επιτρέπει τη δομημένη παραγωγή HTML με ελάχιστη σύνταξη, πλήρη υποστήριξη UTF-8 και εύκολη επεξεργασία μέσω Abstract Syntax Tree (AST). |
 | [**BootLib**](https://github.com/ascoos/bootlib) | Ισχυρό UI Framework με εκτενή βιβλιοθήκη διεπαφής, υποστηριζόμενο από το JavaScript Framework `JAscoos`. |
-| [**JSQLDB**](https://github.com/ascoos/jsql) | Υβριδική μηχανή βάσης δεδομένων τύπου JSON SQL με έμφαση στην ταχύτητα, αρθρωτότητα και PHP-native queries. |
+| [**JSQLDB**](https://github.com/ascoos/jsqldb) | Υβριδική μηχανή βάσης δεδομένων τύπου JSON SQL με έμφαση στην ταχύτητα, αρθρωτότητα και PHP-native queries. |
 | [**Greek Spellchecker**](https://addons.mozilla.org/el/firefox/addon/greek-spellchecker/) | Πρόσθετο για τον Firefox για ορθογραφικό έλεγχο στην ελληνική γλώσσα. |
 | [**phpBCL**](https://github.com/ascoos/phpbcl) | Βιβλιοθήκη Συμβατότητας PHP για παλαιότερες εκδόσεις. |
 | [**WIC (Web Images Cryptography)**](https://github.com/ascoos/wic) | Νέα μορφή αρχείου εικόνας (`*.wic`) με υψηλή συμπίεση και αυξημένη ασφάλεια για χρήση στο web. |
@@ -106,6 +106,7 @@ Windows
 ---
 
 <p align="center"><i>Σας ευχαριστούμε που επισκεφθήκατε το οικοσύστημα Ascoos. Ας χτίσουμε μαζί το μέλλον.</i></p>
+
 
 
 
