@@ -11,6 +11,17 @@ From Web 5.0 kernels to visual development environments, UI libraries, and hybri
 
 ---
 
+## 📊 Technologies
+
+![PHP](https://img.shields.io/badge/5.6--8.5-blue?style=for-the-badge&label=PHP&labelColor=041f60&color=034f84)
+![IoT](https://img.shields.io/badge/Ready-blue?style=for-the-badge&label=IoT&labelColor=%234e555b&color=006400)
+![AI](https://img.shields.io/badge/Enabled-blue?style=for-the-badge&label=AI%2FNLP%2FNeural&labelColor=%234e555b&color=3e8548)
+![Static Badge](https://img.shields.io/badge/Enabled-blue?style=for-the-badge&label=Macro%20Engine%20with%20DSL%2FAST&labelColor=%234e555b&color=3e8548)
+![WebSocket](https://img.shields.io/badge/Supported-blue?style=for-the-badge&label=Web%20Socket&labelColor=%234e555b&color=873260)
+![HTTP/3](https://img.shields.io/badge/Supported-blue?style=for-the-badge&label=HTTP%2F2%20%7C%20HTTP%2F3&labelColor=%234e555b&color=873260)
+
+---
+
 ## 🚀 Featured Projects
 
 | Project | Description |
@@ -23,16 +34,6 @@ From Web 5.0 kernels to visual development environments, UI libraries, and hybri
 | [**Greek Spellchecker**](https://addons.mozilla.org/en/firefox/addon/greek-spellchecker/) | A Firefox add-on for accurate Greek spellchecking. |
 | [**phpBCL**](https://github.com/ascoos/phpbcl) | A PHP Compatibility Library for legacy versions. |
 | [**WIC (Web Images Cryptography)**](https://github.com/ascoos/wic) | A new image file format (`*.wic`) offering high compression and enhanced security for web delivery. |
-
----
-
-## 📊 Technologies
-
-![PHP](https://img.shields.io/badge/PHP-8.2-blue)
-![IoT](https://img.shields.io/badge/IoT-ready-green)
-![AI](https://img.shields.io/badge/AI-enabled-purple)
-![WebSocket](https://img.shields.io/badge/WebSocket-supported-orange)
-![HTTP/3](https://img.shields.io/badge/HTTP/3-supported-red)
 
 ---
 
