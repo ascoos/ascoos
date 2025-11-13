@@ -50,7 +50,6 @@ Explore the [comparison table](https://github.com/ascoos/os/blob/main/COMPARE.md
 [![AWES Downloads](https://img.shields.io/sourceforge/dt/ascoos-web-extended-studio?label=Ascoos%20Web%20Extended%20Studio)](https://sourceforge.net/projects/ascoos-web-extended-studio/)  
 [![YouTube Views](https://img.shields.io/youtube/channel/views/UCSXEgwKou_sV0D6ZWOaih5w)](https://www.youtube.com/@Ascoos)  
 [![Twitter Followers](https://img.shields.io/twitter/follow/ascoos)](https://x.com/ascoos)  
-![GitHub Followers](https://img.shields.io/github/followers/ascoos)
 
 ---
 
