@@ -50,7 +50,6 @@
 [![Λήψεις AWES](https://img.shields.io/sourceforge/dt/ascoos-web-extended-studio?label=Ascoos%20Web%20Extended%20Studio)](https://sourceforge.net/projects/ascoos-web-extended-studio/)  
 [![Προβολές YouTube](https://img.shields.io/youtube/channel/views/UCSXEgwKou_sV0D6ZWOaih5w)](https://www.youtube.com/@Ascoos)  
 [![Ακολούθοι στο X (Twitter)](https://img.shields.io/twitter/follow/ascoos)](https://x.com/ascoos)  
-![Ακολούθοι στο GitHub](https://img.shields.io/github/followers/ascoos)
 
 ---
 
@@ -107,6 +106,7 @@ Windows
 ---
 
 <p align="center"><i>Σας ευχαριστούμε που επισκεφθήκατε το οικοσύστημα Ascoos. Ας χτίσουμε μαζί το μέλλον.</i></p>
+
 
 
 
