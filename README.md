@@ -103,7 +103,7 @@ These technologies support modern use cases across Web, IoT, and AI environments
 **Ascoos OS** is not a framework; it is a **low‑level kernel** operating beneath the abstraction layer of modern PHP frameworks.  
 The available comparison table highlights the differences between Ascoos OS and popular frameworks, demonstrating its role as a foundational layer upon which frameworks, CMS platforms, and complex applications can be built.
 
-See the [comparison table](https://github.com/ascoos/os/blob/main/COMPARE-GR.md) for more details.
+See the [comparison table](https://github.com/ascoos/os/blob/main/COMPARE.md) for more details.
 
 ---
 
