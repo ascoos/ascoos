@@ -4,14 +4,74 @@
 
 ---
 
-# 👋 Welcome to the Ascoos Ecosystem
+# Ascoos Ecosystem
 
-**Ascoos** is a modular, extensible, and innovative software ecosystem designed for developers seeking more than just a framework.  
-From Web 5.0 kernels to visual development environments, UI libraries, and hybrid databases—Ascoos delivers solutions for Web, IoT, AI, and beyond.
+The Ascoos ecosystem is a comprehensive software environment that includes technologies, tools, and applications for Web, IoT, and AI platforms.  
+Its goal is to provide modern, efficient, and extensible solutions for developers and organizations seeking high performance, modular architecture, and technological innovation.
+
+This GitHub account hosts ongoing projects, open‑source libraries, and supporting tools that form part of the broader ecosystem.
 
 ---
 
-## 📊 Technologies
+## 🔹 History & Evolution
+
+The development of the Ascoos ecosystem began in 2007–2010 with **Ascoos CMS 10**, the world’s first Windows‑like (Desktop‑like) CMS.  
+Ascoos CMS 10 made extensive use of JSON and jQuery at a time when XML‑based technologies and prototype.js dominated the landscape, introducing a pioneering desktop‑like management experience.
+
+The architecture and technological choices of Ascoos CMS 10 laid the foundation for the philosophy behind today’s **Ascoos OS**:  
+a low‑level design, modular infrastructure, desktop‑like interfaces, and the ability to serve as a foundation for frameworks, CMS platforms, APIs, and complex applications.
+
+---
+
+## 🔹 The Ascoos Project Family
+
+The ecosystem includes:
+
+- Web Kernels & Framework Foundations  
+- Desktop development tools  
+- UI Libraries & Markup Languages  
+- Hybrid databases  
+- WebAI & Web 5.0 technologies  
+
+Each project is designed with:
+
+- modularity,  
+- extensibility,  
+- high performance,  
+- seamless integration into existing infrastructures.
+
+---
+
+## 🔹 Desktop Applications
+
+### **Ascoos Web Extended Studio (AWES)**  
+A complete, portable IDE for developing web applications, featuring:
+
+- multiple Web, DB, and FTP servers,  
+- integrated tools (editors, browsers, etc.),  
+- support for multiple PHP versions,  
+- visual management and debugging tools,  
+- fully portable operation.
+
+AWES functions as a full development suite rather than a simple server runner.
+
+---
+
+## 🔹 Web Applications & Technologies
+
+Ascoos provides solutions that cover:
+
+- Web 5.0 kernels  
+- Visual development environments  
+- UI frameworks  
+- Hybrid JSON‑SQL databases  
+- WebAI infrastructures  
+
+These technologies support modern use cases across Web, IoT, and AI environments.
+
+---
+
+## 🔹 Technologies
 
 ![PHP](https://img.shields.io/badge/5.6--8.5-blue?style=for-the-badge&label=PHP&labelColor=041f60&color=034f84)
 ![IoT](https://img.shields.io/badge/Ready-blue?style=for-the-badge&label=IoT&labelColor=%234e555b&color=006400)
@@ -22,55 +82,64 @@ From Web 5.0 kernels to visual development environments, UI libraries, and hybri
 
 ---
 
-## 🚀 Featured Projects
+## 🔹 Main Projects
 
 | Project | Description |
 |--------|-------------|
-| [**Ascoos OS**](https://github.com/ascoos/os) | A powerful PHP Web 5.0 Kernel with support for Web, IoT, AI, NLP, and more. |
+| [**Ascoos OS**](https://github.com/ascoos/os) | A low‑level **Web5/WebAI Kernel** written in pure PHP, featuring built‑in AI, a Macro Engine (DSL/AST), and technologies such as `CiC`, `OTA`, `DUAL`, and `LibIn`. It serves as a foundation for frameworks, CMS platforms, APIs, IoT systems, and complex applications. |
 | [**Ascoos Web Extended Studio (AWES)**](https://github.com/ascoos/awes) | A portable IDE for developing and testing web applications across multiple PHP versions and databases, featuring visual tools and extensibility. |
-| [**JML (JSON-style Markup Language)**](https://github.com/ascoos/jml) | JML is a lightweight, readable markup format inspired by JSON and DSLs. Designed for rapid UI template creation in Ascoos OS, it enables structured HTML generation with minimal syntax, full UTF-8 support, and easy editing via Abstract Syntax Tree (AST). |
-| [**BootLib**](https://github.com/ascoos/bootlib) | A robust UI framework with an extensive interface library, supported by the JavaScript framework `JAscoos`. |
-| [**JSQLDB**](https://github.com/ascoos/jsqldb) | A hybrid JSON SQL database engine focused on speed, modularity, and PHP-native queries. |
-| [**Greek Spellchecker**](https://addons.mozilla.org/en/firefox/addon/greek-spellchecker/) | A Firefox add-on for accurate Greek spellchecking. |
-| [**phpBCL**](https://github.com/ascoos/phpbcl) | A PHP Compatibility Library for legacy versions. |
-| [**WIC (Web Images Cryptography)**](https://github.com/ascoos/wic) | A new image file format (`*.wic`) offering high compression and enhanced security for web delivery. |
+| [**JML (JSON‑style Markup Language)**](https://github.com/ascoos/jml/blob/main/README.md) | A lightweight markup format inspired by JSON and DSLs, designed for rapid UI template creation in Ascoos OS, with AST support and full UTF‑8 compatibility. |
+| [**BootLib**](https://github.com/ascoos/bootlib) | A UI framework with an extensive interface library, powered by the `JAscoos` JavaScript framework. |
+| [**JSQLDB**](https://github.com/ascoos/jsqldb) | A hybrid JSON‑SQL database engine focused on speed, modularity, and PHP‑native queries. |
+| [**Greek Spellchecker**](https://addons.mozilla.org/el/firefox/addon/greek-spellchecker/) | A Firefox add‑on for Greek spell checking. |
+| [**phpBCL**](https://github.com/ascoos/phpbcl) | A PHP compatibility library for older versions. |
+| [**WIC (Web Images Cryptography)**](https://github.com/ascoos/wic) | A new image file format (`*.wic`) offering high compression and enhanced security for web use. |
+| [**WebAI**](https://github.com/ascoos/WebAI/blob/main/README.md) | An architecture where the web itself operates as an intelligent entity, rather than a collection of AI add‑ons. |
 
 ---
 
-## 🧠 Technological Superiority
+## 🔹 Technological Superiority of Ascoos OS
 
-Explore the [comparison table](https://github.com/ascoos/os/blob/main/COMPARE.md) showcasing [**Ascoos OS**](https://github.com/ascoos/os) against popular PHP frameworks like Laravel, Symfony, and CodeIgniter.
+**Ascoos OS** is not a framework; it is a **low‑level kernel** operating beneath the abstraction layer of modern PHP frameworks.  
+The available comparison table highlights the differences between Ascoos OS and popular frameworks, demonstrating its role as a foundational layer upon which frameworks, CMS platforms, and complex applications can be built.
+
+See the [comparison table](https://github.com/ascoos/os/blob/main/COMPARE-GR.md) for more details.
 
 ---
 
-## 🌐 Community & Reach
+## 🔹 Community & Reach
 
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.ascoos.com)](https://www.ascoos.com)  
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fawes.ascoos.com)](https://awes.ascoos.com)  
 [![AWServer Downloads](https://img.shields.io/sourceforge/dt/awserver?label=Ascoos%20Web%20Server)](https://sourceforge.net/projects/awserver/)  
 [![AWES Downloads](https://img.shields.io/sourceforge/dt/ascoos-web-extended-studio?label=Ascoos%20Web%20Extended%20Studio)](https://sourceforge.net/projects/ascoos-web-extended-studio/)  
 [![YouTube Views](https://img.shields.io/youtube/channel/views/UCSXEgwKou_sV0D6ZWOaih5w)](https://www.youtube.com/@Ascoos)  
-[![Twitter Followers](https://img.shields.io/twitter/follow/ascoos)](https://x.com/ascoos)  
+[![X (Twitter) Followers](https://img.shields.io/twitter/follow/ascoos)](https://x.com/ascoos)  
 
 ---
 
-## 🛠️ Getting Started
+## 🔹 Get Started
 
 Each project includes its own README and detailed documentation.  
-To explore the ecosystem, start with [Ascoos OS](https://github.com/ascoos/os) or try [AWES](https://github.com/ascoos/awes) for a visual development experience.
+To explore the ecosystem, we recommend:
+
+- **Ascoos OS** to understand the architecture  
+- **AWES** for visual and practical application development  
 
 ---
 
-## 🤝 Contribution & Collaboration
+## 🔹 Contributing
 
-Ascoos is a hybrid ecosystem—part commercial, part open-source—and every contribution is welcome!  
-You can:
-- Report issues or suggestions at [issues.ascoos.com](https://issues.ascoos.com)
-- Submit Pull Requests to individual repositories
-- Join future discussions on GitHub Discussions
+Ascoos combines commercial and open‑source projects.  
+Contributions are welcome through:
+
+- Issues  
+- Suggestions  
+- Pull Requests  
+- GitHub Discussions  
 
 ---
 
-## 🧩 Ecosystem Diagram
+## 🔹 Ecosystem Diagram
 
 ```text
 PHP
@@ -79,7 +148,7 @@ PHP
 │   │   ├── Ascoos CMS 
 │   ├── IoT
 │   ├── APIs
-│   ├── Other frameworks or web applications
+│   ├── Other Frameworks or Web Applications
 
 Windows
 ├── Ascoos Web Server
@@ -88,21 +157,15 @@ Windows
 
 ---
 
-## 📬 Contact
+## 🔹 Contact & Connectivity
 
-For inquiries or collaborations, please email **support@ascoos.com**.
-
----
-
-## 📣 Stay Connected
-
-- 🌐 Official Website: [www.ascoos.com](https://www.ascoos.com)
-- 💻 AWES Official Website: [awes.ascoos.com](https://awes.ascoos.com)
-- 🐞 Issues: [issues.ascoos.com](https://issues.ascoos.com)
-- 📺 YouTube: [@Ascoos](https://www.youtube.com/@Ascoos)  
-- 🐦 Twitter/X: [@ascoos](https://x.com/ascoos)  
-- 🧵 Ascoos Discussions: Coming soon...
+- Official Website: [www.ascoos.com](https://www.ascoos.com)  
+- AWES: [awes.ascoos.com](https://awes.ascoos.com)  
+- Ascoos OS: [os.ascoos.com](https://os.ascoos.com) (Under construction)  
+- JML: [jml.ascoos.com](https://jml.ascoos.com)  
+- YouTube: [@Ascoos](https://www.youtube.com/@Ascoos)  
+- X (Twitter): [@ascoos](https://x.com/ascoos)  
 
 ---
 
-<p align="center"><i>Thank you for visiting the Ascoos ecosystem. Let’s build the future together.</i></p>
+<p align="center"><i>Our mission is to develop modern technologies that shape the future of the Web.</i></p>
