@@ -13,6 +13,9 @@
 
 ![Ascoos Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ascoos&theme=default) 
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ascoos&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ascoos&theme=default&utcOffset=2)
+
 ---
 
 ## 🔹 Ιστορικό & Εξέλιξη
@@ -100,9 +103,6 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ascoos&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ascoos&theme=default) 
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ascoos&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ascoos&theme=default&utcOffset=2)
 
 ---
 
