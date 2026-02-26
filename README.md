@@ -11,6 +11,11 @@ Its goal is to provide modern, efficient, and extensible solutions for developer
 
 This GitHub account hosts ongoing projects, open‑source libraries, and supporting tools that form part of the broader ecosystem.
 
+![Ascoos: Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ascoos&theme=default) 
+
+![Ascoos: Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ascoos&theme=default)
+![Ascoos: Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ascoos&theme=default&utcOffset=2)
+
 ---
 
 ## 🔹 History & Evolution
@@ -95,6 +100,9 @@ These technologies support modern use cases across Web, IoT, and AI environments
 | [**phpBCL**](https://github.com/ascoos/phpbcl) | A PHP compatibility library for older versions. |
 | [**WIC (Web Images Cryptography)**](https://github.com/ascoos/wic) | A new image file format (`*.wic`) offering high compression and enhanced security for web use. |
 | [**WebAI**](https://github.com/ascoos/WebAI/blob/main/README.md) | An architecture where the web itself operates as an intelligent entity, rather than a collection of AI add‑ons. |
+
+![Ascoos: Repositories per Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ascoos&theme=default)
+![Ascoos: Most Commits per Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ascoos&theme=default) 
 
 ---
 
