@@ -13,12 +13,6 @@
 
 ![Ascoos Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ascoos&theme=default) 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ascoos&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ascoos&theme=default) 
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ascoos&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ascoos&theme=default&utcOffset=8)
-
 ---
 
 ## 🔹 Ιστορικό & Εξέλιξη
@@ -103,6 +97,12 @@
 | [**phpBCL**](https://github.com/ascoos/phpbcl) | Βιβλιοθήκη συμβατότητας PHP για παλαιότερες εκδόσεις. |
 | [**WIC (Web Images Cryptography)**](https://github.com/ascoos/wic) | Νέα μορφή αρχείου εικόνας (`*.wic`) με υψηλή συμπίεση και αυξημένη ασφάλεια για χρήση στο web. |
 | [**WebAI**](https://github.com/ascoos/WebAI/blob/main/README-EL.md) | Το WebAI αποτελεί αρχιτεκτονική όπου το ίδιο το διαδίκτυο λειτουργεί ως νοήμων οντότητα, και όχι απλώς ως σύνολο AI προσθηκών. |
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ascoos&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ascoos&theme=default) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ascoos&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ascoos&theme=default&utcOffset=2)
 
 ---
 
