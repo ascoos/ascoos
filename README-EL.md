@@ -11,10 +11,8 @@
 
 Το παρόν GitHub account φιλοξενεί έργα σε εξέλιξη, βιβλιοθήκες ανοικτού κώδικα και υποστηρικτικά εργαλεία που αποτελούν μέρος του ευρύτερου οικοσυστήματος.
 
-![Ascoos: Λεπτομέρειες Προφίλ](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ascoos&theme=default) 
-
-![Ascoos: Στατιστικά](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ascoos&theme=default)
-![Ascoos: Παραγωγικό Ωράριο](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ascoos&theme=default&utcOffset=2)
+![Ascoos: Αποθετήρια ανά γλώσσα](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ascoos&theme=default)
+![Ascoos: Περισσότερα commits ανά γλώσσα](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ascoos&theme=default) 
 
 ---
 
@@ -100,9 +98,6 @@
 | [**phpBCL**](https://github.com/ascoos/phpbcl) | Βιβλιοθήκη συμβατότητας PHP για παλαιότερες εκδόσεις. |
 | [**WIC (Web Images Cryptography)**](https://github.com/ascoos/wic) | Νέα μορφή αρχείου εικόνας (`*.wic`) με υψηλή συμπίεση και αυξημένη ασφάλεια για χρήση στο web. |
 | [**WebAI**](https://github.com/ascoos/WebAI/blob/main/README-EL.md) | Το WebAI αποτελεί αρχιτεκτονική όπου το ίδιο το διαδίκτυο λειτουργεί ως νοήμων οντότητα, και όχι απλώς ως σύνολο AI προσθηκών. |
-
-![Ascoos: Αποθετήρια ανά γλώσσα](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ascoos&theme=default)
-![Ascoos: Περισσότερα commits ανά γλώσσα](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ascoos&theme=default) 
 
 ---
 
