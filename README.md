@@ -11,6 +11,22 @@ Its goal is to provide modern, efficient, and extensible solutions for developer
 
 This GitHub account hosts ongoing projects, open‑source libraries, and supporting tools that form part of the broader ecosystem.
 
+---
+
+## 🔹 Current Main Projects
+
+| Project | Description |
+|--------|-------------|
+| [**Ascoos OS**](https://github.com/ascoos/os) | A low‑level **Web5/WebAI Kernel** written in pure PHP, featuring built‑in AI, a Macro Engine (DSL/AST), and technologies such as `CiC`, `OTA`, `DUAL`, and `LibIn`. It serves as a foundation for frameworks, CMS platforms, APIs, IoT systems, and complex applications. |
+| [**Ascoos Web Extended Studio (AWES)**](https://github.com/ascoos/awes) | A portable IDE for developing and testing web applications across multiple PHP versions and databases, featuring visual tools and extensibility. |
+| [**JML (JSON‑style Markup Language)**](https://github.com/ascoos/jml/blob/main/README.md) | A lightweight markup format inspired by JSON and DSLs, designed for rapid UI template creation in Ascoos OS, with AST support and full UTF‑8 compatibility. |
+| [**BootLib**](https://github.com/ascoos/bootlib) | A UI framework with an extensive interface library, powered by the `JAscoos` JavaScript framework. |
+| [**JSQLDB**](https://github.com/ascoos/jsqldb) | A hybrid JSON‑SQL database engine focused on speed, modularity, and PHP‑native queries. |
+| [**Greek Spellchecker**](https://addons.mozilla.org/el/firefox/addon/greek-spellchecker/) | A Firefox add‑on for Greek spell checking. |
+| [**phpBCL**](https://github.com/ascoos/phpbcl) | A PHP compatibility library for older versions. |
+| [**WIC (Web Images Cryptography)**](https://github.com/ascoos/wic) | A new image file format (`*.wic`) offering high compression and enhanced security for web use. |
+| [**WebAI**](https://github.com/ascoos/WebAI/blob/main/README.md) | An architecture where the web itself operates as an intelligent entity, rather than a collection of AI add‑ons. |
+
 ![Ascoos: Repositories per Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ascoos&theme=default)
 ![Ascoos: Most Commits per Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ascoos&theme=default) 
 
@@ -82,22 +98,6 @@ These technologies support modern use cases across Web, IoT, and AI environments
 ![Static Badge](https://img.shields.io/badge/Enabled-blue?style=for-the-badge&label=Macro%20Engine%20with%20DSL%2FAST&labelColor=%234e555b&color=3e8548)
 ![WebSocket](https://img.shields.io/badge/Supported-blue?style=for-the-badge&label=Web%20Socket&labelColor=%234e555b&color=873260)
 ![HTTP/3](https://img.shields.io/badge/Supported-blue?style=for-the-badge&label=HTTP%2F2%20%7C%20HTTP%2F3&labelColor=%234e555b&color=873260)
-
----
-
-## 🔹 Main Projects
-
-| Project | Description |
-|--------|-------------|
-| [**Ascoos OS**](https://github.com/ascoos/os) | A low‑level **Web5/WebAI Kernel** written in pure PHP, featuring built‑in AI, a Macro Engine (DSL/AST), and technologies such as `CiC`, `OTA`, `DUAL`, and `LibIn`. It serves as a foundation for frameworks, CMS platforms, APIs, IoT systems, and complex applications. |
-| [**Ascoos Web Extended Studio (AWES)**](https://github.com/ascoos/awes) | A portable IDE for developing and testing web applications across multiple PHP versions and databases, featuring visual tools and extensibility. |
-| [**JML (JSON‑style Markup Language)**](https://github.com/ascoos/jml/blob/main/README.md) | A lightweight markup format inspired by JSON and DSLs, designed for rapid UI template creation in Ascoos OS, with AST support and full UTF‑8 compatibility. |
-| [**BootLib**](https://github.com/ascoos/bootlib) | A UI framework with an extensive interface library, powered by the `JAscoos` JavaScript framework. |
-| [**JSQLDB**](https://github.com/ascoos/jsqldb) | A hybrid JSON‑SQL database engine focused on speed, modularity, and PHP‑native queries. |
-| [**Greek Spellchecker**](https://addons.mozilla.org/el/firefox/addon/greek-spellchecker/) | A Firefox add‑on for Greek spell checking. |
-| [**phpBCL**](https://github.com/ascoos/phpbcl) | A PHP compatibility library for older versions. |
-| [**WIC (Web Images Cryptography)**](https://github.com/ascoos/wic) | A new image file format (`*.wic`) offering high compression and enhanced security for web use. |
-| [**WebAI**](https://github.com/ascoos/WebAI/blob/main/README.md) | An architecture where the web itself operates as an intelligent entity, rather than a collection of AI add‑ons. |
 
 ---
 

@@ -11,6 +11,22 @@
 
 Το παρόν GitHub account φιλοξενεί έργα σε εξέλιξη, βιβλιοθήκες ανοικτού κώδικα και υποστηρικτικά εργαλεία που αποτελούν μέρος του ευρύτερου οικοσυστήματος.
 
+---
+
+## 🔹 Τρέχοντα Κύρια Έργα
+
+| Έργο | Περιγραφή |
+|------|-----------|
+| [**Ascoos OS**](https://github.com/ascoos/os) | Χαμηλού επιπέδου **Web5/WebAI Kernel** σε pure‑PHP, με ενσωματωμένη AI, Macro Engine (DSL/AST) και τεχνολογίες όπως `CiC`, `OTA`, `DUAL`, `LibIn`. Αποτελεί θεμέλιο για frameworks, CMS, APIs, IoT και σύνθετες εφαρμογές. |
+| [**Ascoos Web Extended Studio (AWES)**](https://github.com/ascoos/awes) | Φορητό IDE για ανάπτυξη και έλεγχο web εφαρμογών σε πολλαπλές εκδόσεις PHP και βάσεων δεδομένων, με οπτικά εργαλεία και επεκτασιμότητα. |
+| [**JML (JSON-style Markup Language)**](https://github.com/ascoos/jml/blob/main/README-GR.md) | Ελαφρύ markup format εμπνευσμένο από JSON και DSLs, σχεδιασμένο για γρήγορη δημιουργία UI templates στο Ascoos OS, με AST υποστήριξη και πλήρη UTF‑8 συμβατότητα. |
+| [**BootLib**](https://github.com/ascoos/bootlib) | UI Framework με εκτενή βιβλιοθήκη διεπαφής, υποστηριζόμενο από το JavaScript Framework `JAscoos`. |
+| [**JSQLDB**](https://github.com/ascoos/jsqldb) | Υβριδική JSON‑SQL μηχανή βάσης δεδομένων με έμφαση στην ταχύτητα, modularity και PHP‑native queries. |
+| [**Greek Spellchecker**](https://addons.mozilla.org/el/firefox/addon/greek-spellchecker/) | Πρόσθετο για τον Firefox για ορθογραφικό έλεγχο στην ελληνική γλώσσα. |
+| [**phpBCL**](https://github.com/ascoos/phpbcl) | Βιβλιοθήκη συμβατότητας PHP για παλαιότερες εκδόσεις. |
+| [**WIC (Web Images Cryptography)**](https://github.com/ascoos/wic) | Νέα μορφή αρχείου εικόνας (`*.wic`) με υψηλή συμπίεση και αυξημένη ασφάλεια για χρήση στο web. |
+| [**WebAI**](https://github.com/ascoos/WebAI/blob/main/README-EL.md) | Το WebAI αποτελεί αρχιτεκτονική όπου το ίδιο το διαδίκτυο λειτουργεί ως νοήμων οντότητα, και όχι απλώς ως σύνολο AI προσθηκών. |
+
 ![Ascoos: Αποθετήρια ανά γλώσσα](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ascoos&theme=default)
 ![Ascoos: Περισσότερα commits ανά γλώσσα](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ascoos&theme=default) 
 
@@ -82,22 +98,6 @@
 ![Static Badge](https://img.shields.io/badge/Enabled-blue?style=for-the-badge&label=Macro%20Engine%20with%20DSL%2FAST&labelColor=%234e555b&color=3e8548)
 ![WebSocket](https://img.shields.io/badge/Supported-blue?style=for-the-badge&label=Web%20Socket&labelColor=%234e555b&color=873260)
 ![HTTP/3](https://img.shields.io/badge/Supported-blue?style=for-the-badge&label=HTTP%2F2%20%7C%20HTTP%2F3&labelColor=%234e555b&color=873260)
-
----
-
-## 🔹 Κύρια Έργα
-
-| Έργο | Περιγραφή |
-|------|-----------|
-| [**Ascoos OS**](https://github.com/ascoos/os) | Χαμηλού επιπέδου **Web5/WebAI Kernel** σε pure‑PHP, με ενσωματωμένη AI, Macro Engine (DSL/AST) και τεχνολογίες όπως `CiC`, `OTA`, `DUAL`, `LibIn`. Αποτελεί θεμέλιο για frameworks, CMS, APIs, IoT και σύνθετες εφαρμογές. |
-| [**Ascoos Web Extended Studio (AWES)**](https://github.com/ascoos/awes) | Φορητό IDE για ανάπτυξη και έλεγχο web εφαρμογών σε πολλαπλές εκδόσεις PHP και βάσεων δεδομένων, με οπτικά εργαλεία και επεκτασιμότητα. |
-| [**JML (JSON-style Markup Language)**](https://github.com/ascoos/jml/blob/main/README-GR.md) | Ελαφρύ markup format εμπνευσμένο από JSON και DSLs, σχεδιασμένο για γρήγορη δημιουργία UI templates στο Ascoos OS, με AST υποστήριξη και πλήρη UTF‑8 συμβατότητα. |
-| [**BootLib**](https://github.com/ascoos/bootlib) | UI Framework με εκτενή βιβλιοθήκη διεπαφής, υποστηριζόμενο από το JavaScript Framework `JAscoos`. |
-| [**JSQLDB**](https://github.com/ascoos/jsqldb) | Υβριδική JSON‑SQL μηχανή βάσης δεδομένων με έμφαση στην ταχύτητα, modularity και PHP‑native queries. |
-| [**Greek Spellchecker**](https://addons.mozilla.org/el/firefox/addon/greek-spellchecker/) | Πρόσθετο για τον Firefox για ορθογραφικό έλεγχο στην ελληνική γλώσσα. |
-| [**phpBCL**](https://github.com/ascoos/phpbcl) | Βιβλιοθήκη συμβατότητας PHP για παλαιότερες εκδόσεις. |
-| [**WIC (Web Images Cryptography)**](https://github.com/ascoos/wic) | Νέα μορφή αρχείου εικόνας (`*.wic`) με υψηλή συμπίεση και αυξημένη ασφάλεια για χρήση στο web. |
-| [**WebAI**](https://github.com/ascoos/WebAI/blob/main/README-EL.md) | Το WebAI αποτελεί αρχιτεκτονική όπου το ίδιο το διαδίκτυο λειτουργεί ως νοήμων οντότητα, και όχι απλώς ως σύνολο AI προσθηκών. |
 
 ---
 
